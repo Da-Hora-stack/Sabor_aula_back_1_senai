@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Da-Hora-stack/Sabor_aula_back_1_senai/issues"
   },
-  "homepage": "https://github.com/Da-Hora-stack/Sabor_aula_back_1_senai#readme"
+  "homepage": "https://github.com/Da-Hora-stack/Sabor_aula_back_1_senai#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
 }
